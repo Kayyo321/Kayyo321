@@ -57,7 +57,7 @@ Certificate of learning HLSL:
 
 Certificate of learning C# && Unity:
 
-![C# & Unity Certificate](readmeImgs/UnityC#.jpg)
+![C# & Unity Certificate](readmeImgs/UnityCS.jpg)
 
 Certificate of learning x86 Assembly:
 
