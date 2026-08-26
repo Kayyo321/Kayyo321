@@ -22,13 +22,13 @@ United States computer science
 
 I have had started programming ever since COVID years ago, and have become very advanced in it since.
 I'm very proficient in:
-  * ✨ C/C++
-  * ✨ Java
-  * ✨ Python
-  * ✨ Golang
-  * ✨ x86 Assembly
-  * ✨ Unreal Engine 5
-  * ✨ Unity
+  * C/C++
+  * Java
+  * Python
+  * Golang
+  * x86 Assembly
+  * Unreal Engine 5
+  * Unity
   * (and more)
   
 # Udemy certificates
