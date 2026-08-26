@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # Kayyo321 ⌨️
-## Sullivan Baczynski-Bruce 👋
+## s@koyak.net 👋
 
 ### About Me
 
-I'm in New York, USA, but I'm from France 🗼
+United States computer science 
 
-Big (European) football fan ⚽!
-
-I have had started programming 3 years ago, and have become very advanced in it since.
+I have had started programming ever since COVID years ago, and have become very advanced in it since.
 I'm very proficient in:
   * ✨ C/C++
   * ✨ Java
@@ -31,16 +29,8 @@ I'm very proficient in:
   * ✨ x86 Assembly
   * ✨ Unreal Engine 5
   * ✨ Unity
-  * (and more!)
+  * (and more)
   
-Go to school 🏫 at a software oriented highschool!
-
-Love fun project ideas, but am very willing to put effort into larger projects! 💪
-
-### How to reach me
-
-📫 Email me at: sullyman08@gmail.com
-
 # Udemy certificates
 
 Certificate of learning C/C++:
